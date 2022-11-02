@@ -1,0 +1,35 @@
+
+h1.List1{
+    font-size: 50px;
+    color: blue;
+}
+
+body{
+    color : green;
+}
+
+*{
+    color : black;
+}
+.List1{
+    color: peru;
+}
+#main{
+    color : purple;
+}
+
+ol h1{
+    color : aqua;
+}
+
+a:visited {
+    background-color: black;
+    color: black;
+    font-size: 100px;;
+}
+a:hover{
+    background-color: blueviolet;
+}
+a{
+   color: pink  ; 
+}
